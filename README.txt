@@ -14,30 +14,15 @@
 - Install OpenAI Gym
     $ pip install gym
 
-- Go into directory and open up jupyter notebook
+- Go into directory and open up jupyter notebook. In a terminal:
     $ cd reinforcement_learning/code
     $ jupyter notebook
+    
+- For the frozen lake problem:
+    - open 'frozen.ipynb'
+    - click the 'Kernel' tab and choose to 'Restart and Run All'
 
+- For the forest management problem:
+    - open 'forest.ipynb'
+    - click the 'Kernel' tab and choose to 'Restart and Run All'
 
-
-
-
-
-
-
-
-
-
-
-
-
-- Install latest scikit-learn
-    $ pip install -U scikit-learn
-
-- Go into directory and open up jupyter notebook
-    $ cd unsupervised_learning/code
-    $ jupyter notebook
-
-- Open 'Assignment 3.ipynb'
-
-- Click the 'Kernel' tab and choose to 'Restart and Run All'
